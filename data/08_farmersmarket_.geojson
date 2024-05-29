@@ -1,0 +1,2939 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.945635,40.7903 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Harvest Home East Harlem Farmers Market",
+    "Street Address":"E. 104th St. & 3rd Ave.",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.7903, -73.945635)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.947439,40.63262 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Seeds in the Middle - Flatbush - Hillel Plaza Farm Stand",
+    "Street Address":"Flatbush/Nostrand Triangle",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"4PM - 7PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.63262, -73.947439)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.854567,40.854567 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Morris Heights Farmstand",
+    "Street Address":"University Ave. and W. 179th St.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"11AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.854567, 40.854567)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.916591,40.840138 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"170 Farm Stand",
+    "Street Address":"1406 Townsend Ave.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"2PM - 6PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"Yes",
+    "Location Point":"(40.840138, -73.916591)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.886562,40.882647 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"JBOLC Garden Community Farmers Market",
+    "Street Address":"Sedgwick Ave. & Goulden Ave.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"10AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.882647, -73.886562)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.818531,40.70236 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Perez Farm Stand",
+    "Street Address":"134-20 Jamaica Ave., by the Axel Building",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"10AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.70236, -73.818531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.002402,40.645841 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"7th Ave Sunset Park Greenmarket",
+    "Street Address":"7th Ave. & 44th St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.645841, -74.002402)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.000253,40.744349 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"PS 11 Farm Market",
+    "Street Address":"320 W. 21st St.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"8AM - 10AM",
+    "Accepts EBT":"No",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.744349, -74.000253)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.991023,40.72982 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Astor Place Greenmarket",
+    "Street Address":"E. 8th St. & Lafayette",
+    "Days of Operation":"Tuesday",
+    "Hours of Operations":"8AM - 5PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.72982, -73.991023)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.896508,40.675209 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Fresh Vibes Market at Emblem Health",
+    "Street Address":"101 Pennsylvania Ave.",
+    "Days of Operation":"Wednesday (2nd and 3rd)",
+    "Hours of Operations":"11AM - 2:30PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.675209, -73.896508)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.931151,40.642031 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Seeds in the Middle East Flatbush Farm Stand 2",
+    "Street Address":"4801 Ave. D (PS 208)",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"2PM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.642031, -73.931151)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.010966,40.716303 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Tribeca Greenmarket",
+    "Street Address":"Greenwich & Chambers streets",
+    "Days of Operation":"Wednesday & Saturday",
+    "Hours of Operations":"8AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.716303, -74.010966)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.921582,40.668787 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Eastern Parkway Farm Stand",
+    "Street Address":"1420 Eastern Parkway",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"10AM - 2PM",
+    "Accepts EBT":"TBD",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.668787, -73.921582)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.913698,40.669234 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Brownsville Pitkin Farmstand",
+    "Street Address":"Pitkin Ave. bet Thomas Boyland and Amboy St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"9AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.669234, -73.913698)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.906061,40.772854 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Ditmars Park Farmstand",
+    "Street Address":"Steinway St. bet Ditmars Blvd. & 23rd Ave.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"9:30AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.772854, -73.906061)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99552,40.680761 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Carroll Gardens Greenmarket",
+    "Street Address":"Smith & Carroll Sts.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"8AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.680761, -73.99552)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.942027,40.842296 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Fort Washington Greenmarket",
+    "Street Address":"168th St. & Ft. Washington Ave.",
+    "Days of Operation":"Tuesday",
+    "Hours of Operations":"8AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.842296, -73.942027)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.846937,40.90152 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Bissel Gardens Farmers Market",
+    "Street Address":"Baychester Ave. & E. 241st St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"10AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.90152, -73.846937)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.979629,40.669218 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"NYP Youth Market - Brooklyn",
+    "Street Address":"249 7th Ave.",
+    "Days of Operation":"Tuesday",
+    "Hours of Operations":"9AM - 3PM",
+    "Accepts EBT":"No",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.669218, -73.979629)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.735337,40.717978 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"QueensVillage Farmers Market",
+    "Street Address":"QueensVillage Long Island Railroad Commuter Parking Lot - Amboy Ln. & Springfield Blvd.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"11AM - 4PM",
+    "Accepts EBT":"TBD",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.717978, -73.735337)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.951795,40.81172 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Uptown Good Food Farm Stand",
+    "Street Address":"330 St. Nicholas Ave. (St. Nicholas Miracle Garden)",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"4PM - 7PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.81172, -73.951795)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.867786,40.851713 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Bronx Park East Farmers Market",
+    "Street Address":"2222 Bronx Park E. (near Bradley Playground)",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"9AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.851713, -73.867786)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.777001,40.595572 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Far Rock Farm Stand",
+    "Street Address":"45-55 Beach Channel Dr.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"10AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.595572, -73.777001)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.925185,40.818013 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Lincoln Hospital Greenmarket",
+    "Street Address":"E. 149th St. bet Park & Morris Aves",
+    "Days of Operation":"Tuesdays & Fridays",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.818013, -73.925185)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.983534,40.726054 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Tompkins Square Greenmarket",
+    "Street Address":"7th St. & Ave. A",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"9AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.726054, -73.983534)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.956679,40.666799 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Fresh Vibes Market at Medgar Evers College",
+    "Street Address":"1630 Bedford Ave.",
+    "Days of Operation":"Monday (1st and 3rd)",
+    "Hours of Operations":"10AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.666799, -73.956679)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.911812,40.8139 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Harvest Home St. Mary's Park Farm Stand",
+    "Street Address":"E. 149th St. & Eagle Ave. (St. Mary's Park)",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.8139, -73.911812)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.097966,40.638936 ]
+    },
+    "properties": {
+    "Borough":"Staten Island",
+    "Market Name":"Children's Aid Society Go!Healthy Food Box + Famstand - Goodhue Center",
+    "Street Address":"304 Prospect Ave.",
+    "Days of Operation":"Tuesday",
+    "Hours of Operations":"1PM - 3:30PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.638936, -74.097966)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.925492,40.821447 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"New Roots Farm Stand",
+    "Street Address":"670 Grand Concourse",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"10AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.821447, -73.925492)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94128,40.797577 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"PS 57 Farmstand",
+    "Street Address":"115th St. & 3rd Ave. (SW corner)",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"9:30AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.797577, -73.94128)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.920896,40.869001 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Inwood Park Greenmarket",
+    "Street Address":"Isham St bet Seaman Ave. & Cooper St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.869001, -73.920896)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.161245,40.583804 ]
+    },
+    "properties": {
+    "Borough":"Staten Island",
+    "Market Name":"Staten Island Mall Greenmarket",
+    "Street Address":"Marsh Ave. & Ring Road",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.583804, -74.161245)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.986928,40.712905 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Gouverneur Health Farmstand",
+    "Street Address":"Madison St. bet Clinton & Jefferson Sts.",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"9AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"Yes",
+    "Location Point":"(40.712905, -73.986928)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.789051,40.592902 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Rockaway Market @ Beach 60th",
+    "Street Address":"Rockaway Freeway & Beach 60th St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"10AM - 1PM",
+    "Accepts EBT":"No",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.592902, -73.789051)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.979882,40.64511 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Kensington Farmstand",
+    "Street Address":"McDonald Ave. & Albermarle Road",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8:30AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.64511, -73.979882)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.788077,40.594492 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Rockaway Youth Task Force Youth Market",
+    "Street Address":"310 Beach 58th St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"9AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.594492, -73.788077)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.895379,40.86431 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Poe Park Greenmarket",
+    "Street Address":"E. 192nd St. bet Grand Concourse & Valentine",
+    "Days of Operation":"Tuesday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.86431, -73.895379)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.937811,40.845948 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"175th Street Greenmarket",
+    "Street Address":"W. 175th St. bet. Wadsworth Ave. & Broadway",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"8AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.845948, -73.937811)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.949186,40.802699 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Harvest Home Lenox Avenue Farm Stand",
+    "Street Address":"Lenox Ave. bet. W. 117 & 118 Sts.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.802699, -73.949186)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.951262,40.774292 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"82nd Street Greenmarket",
+    "Street Address":"E. 82nd St. bet 1st & York Aves",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"9AM - 2:30PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.774292, -73.951262)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.003769,40.705865 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Fulton Stall Market (indoor farmers market)",
+    "Street Address":"91 South St.",
+    "Days of Operation":"Monday-Saturday",
+    "Hours of Operations":"11:30AM - 5PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.705865, -74.003769)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.891742,40.853237 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Project EATS & St. Barnabas Hospital Farm Stand",
+    "Street Address":"4507 3rd Ave.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"11AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.853237, -73.891742)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.910207,40.667554 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Isabahlia Farmers Market",
+    "Street Address":"514 Rockaway Ave. (ISO Student Farm)",
+    "Days of Operation":"Friday & Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.667554, -73.910207)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.900545,40.83118 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Morrisania Farmstand",
+    "Street Address":"169th St. & Boston Rd. (at McKinley Square)",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"10AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.83118, -73.900545)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.889755,40.843546 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Children's Aid Go!Healthy Food Box + Farmstand - CS211",
+    "Street Address":"1919 Prospect Ave.",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"2PM - 4:30PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.843546, -73.889755)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.967441,40.715385 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Domino Park Greenmarket",
+    "Street Address":"River St. bet S 1st St. and S. 3rd St.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"9AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.715385, -73.967441)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.924628,40.678508 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Weeksville Farm Stand",
+    "Street Address":"15 Buffalo Ave.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"12PM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.678508, -73.924628)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.93991,40.815403 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Harvest Home Harlem Hospital Farmers Market",
+    "Street Address":"W. 137th St. & Lenox Ave.",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.815403, -73.93991)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.919296,40.832759 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"BronxWorks Farm Stand",
+    "Street Address":"1130 Grand Concourse",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"10AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.832759, -73.919296)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.965523,40.641937 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Seeds in the Middle - Flabush - Ditmas Park Farm Stand",
+    "Street Address":"330 Rugby Rd.",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"2:30PM - 4:30PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.641937, -73.965523)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.950807,40.666472 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Crown Heights Farmstand",
+    "Street Address":"Nostrand Ave. and Crown St. (NW corner)",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"9AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.666472, -73.950807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.922243,40.843627 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"La Familia Verde Farmers Market / Highbridge Farmers Market",
+    "Street Address":"1430 Plimpton Ave.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"10AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.843627, -73.922243)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95191,40.798038 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Harlem Meer Farmstand",
+    "Street Address":"Central Park N & Malcom X Blvd",
+    "Days of Operation":"Saturdays",
+    "Hours of Operations":"10AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.798038, -73.95191)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.952479,40.719219 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"McCarren Park Greenmarket",
+    "Street Address":"N. 12th bet Union & Driggs",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.719219, -73.952479)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.990329,40.737133 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Union Square Greenmarket",
+    "Street Address":"Union Square W. & 17th St.",
+    "Days of Operation":"Monday, Wednesday, Friday & Saturday",
+    "Hours of Operations":"8AM - 6PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.737133, -73.990329)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.005687,40.737553 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Abingdon Square Greenmarket",
+    "Street Address":"Hudson St. & W 12th St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.737553, -74.005687)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.960632,40.650241 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Fresh Vibes Market at Blue Cross Blue Shield @ Church Avenue",
+    "Street Address":"2009 Church Ave.",
+    "Days of Operation":"Monday (4th of each month)",
+    "Hours of Operations":"10AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.650241, -73.960632)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.960254,40.6744 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Seeds in the Middle Crown Heights Farm Stand",
+    "Street Address":"750 Classon Ave. (PS 216)",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"2PM - 5PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.6744, -73.960254)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.926314,40.865881 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"NYP Youth Market - Broadway",
+    "Street Address":"4781-4783 Broadway",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"9AM - 3PM",
+    "Accepts EBT":"No",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.865881, -73.926314)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.818531,40.70236 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Queens Farm @ Jamaica Hospital",
+    "Street Address":"134-20 Jamaica Ave.",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"10AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.70236, -73.818531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.884661,40.8797 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Harvest Home North Central Bronx Farmers Market",
+    "Street Address":"Mosholu Parkway & Jerome Ave.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.8797, -73.884661)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.950171,40.819407 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Market in the Heights at CCNY",
+    "Street Address":"138th St. & Convent Ave.",
+    "Days of Operation":"Saturday (once a month)",
+    "Hours of Operations":"9AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.819407, -73.950171)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.999677,40.609588 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Bensonhurst Greenmarket",
+    "Street Address":"18th Ave. bet 81st & 82nd Sts.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"9AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.609588, -73.999677)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.92539,40.702811 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"RiseBoro Farmers Market at Maria Hernandez Park",
+    "Street Address":"Knickerbocker Ave. bet Sudyam St. & Starr St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"Yes",
+    "Location Point":"(40.702811, -73.92539)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.842046,40.88372 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Eastchester Farmstand",
+    "Street Address":"1250 E. 229th St.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"9AM - 1PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.88372, -73.842046)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.000079704,40.678562 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Saratoga Farm Stand",
+    "Street Address":"1965-1971 Fulton St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"10AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.678562, -0.000079704)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.943355,40.6558 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Harvest Home Kings County Hospital Farmers Market",
+    "Street Address":"Clarkson Ave. bet E. 37th & 38th Sts.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.6558, -73.943355)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.916366,40.69768 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"RiseBoro Farmers Market at Hopefield",
+    "Street Address":"Knickerbocker Ave. bet Menahan St. & Grove St.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"9AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.69768, -73.916366)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.911523,40.699798 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Myrtle-Wyckoff Greenmarket",
+    "Street Address":"Wyckoff bet Gates & Myrtle Aves",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.699798, -73.911523)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.003744,40.647975 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"4th Ave Sunset Park Greenmarket",
+    "Street Address":"4th Ave. 60th St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.647975, -74.003744)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.966021,40.64051 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Cortelyou Greenmarket",
+    "Street Address":"Cortelyou bet Rugby & Argyle",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"8AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.64051, -73.966021)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.773997,40.731082 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Cunningham Park's Down to Earth Farmers Market",
+    "Street Address":"Union Turnpike & 196th Place",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"9AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.731082, -73.773997)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97818,40.731498 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Stuyvesant Town Greenmarket",
+    "Street Address":"South end of Stuyvesant Town Oval",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"9:30AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.731498, -73.97818)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.885489,40.745794 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Elmhurst Hospital Greenmarket",
+    "Street Address":"41st Ave. bet 80th & 81st Sts.",
+    "Days of Operation":"Tuesday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.745794, -73.885489)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.942202,40.701022 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Woodhull Hospital Farmstand",
+    "Street Address":"Broadway & Graham Ave.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"9AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.701022, -73.942202)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.010662,40.711466 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Greenmarket at the Oculus",
+    "Street Address":"Church at Fulton St.",
+    "Days of Operation":"Tuesday",
+    "Hours of Operations":"8AM - 5PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.711466, -74.010662)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01429,40.704549 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Bowling Green Greenmarket",
+    "Street Address":"Broadway at Battery Place",
+    "Days of Operation":"Tuesday & Thursday",
+    "Hours of Operations":"8AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.704549, -74.01429)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.92173,40.74701 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Sunnyside Greenmarket",
+    "Street Address":"Skillman Ave. & 43rd St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.74701, -73.92173)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.990455,40.693722 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Brooklyn Borough Hall Greenmarket",
+    "Street Address":"Montague & Court Sts.",
+    "Days of Operation":"Tusday & Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.693722, -73.990455)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.969964,40.590564 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Edible Schoolyard NYC's Farm Stand at PS 216",
+    "Street Address":"350 Ave. X",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"1:30PM - 3:30PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.590564, -73.969964)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.941282,40.685547 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Fresh Vibes Market at the Bureau of Brooklyn Neighborhood Health",
+    "Street Address":"485 Throop Ave.",
+    "Days of Operation":"Friday (2nd and 3rd)",
+    "Hours of Operations":"11AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.685547, -73.941282)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.910384,40.664477 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Project EATS Brownsville Farm Stand",
+    "Street Address":"300 Chester St.",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"11AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.664477, -73.910384)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.946351,40.802317 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Children's Aid  Go!Healthy Food Box + Farmstand - Milbank Center",
+    "Street Address":"14-32 W. 118th St.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"2PM - 4:30PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.802317, -73.946351)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.893492,40.81894 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Harvest Home Hunts Point Farm Stand",
+    "Street Address":"Southern Blvd bet Barretto & Tiffany Sts. (Luis Suarez Memorial Park)",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.81894, -73.893492)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.03338,40.61781 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Bay Ridge Greenmarket",
+    "Street Address":"3rd Ave. & 95th St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.61781, -74.03338)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.921519,40.70048 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Fresh Vibes Market at Blue Cross Blue Shield @ Knickerbocker Avenue",
+    "Street Address":"364 Knickerbocker Ave.",
+    "Days of Operation":"Monday (4th of each month)",
+    "Hours of Operations":"10AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.70048, -73.921519)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.751972,40.668389 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Sovereign Markets",
+    "Street Address":"Laurelton Long Island Railroad Station Commuter Parking Lot - Prospect Ct. bet 224th & 225th Sts.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"11AM-3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.668389, -73.751972)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.847155,40.722054 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Forest Hills Greenmarket",
+    "Street Address":"Queens Blvd. & 70th Ave.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"8AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.722054, -73.847155)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.902236,40.663532 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Isabahlia Farmers Market",
+    "Street Address":"410 Livonia Ave. (In Front of Powell St. Garden)",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.663532, -73.902236)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.892172,40.884532 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Van Cortlandt Park Alliance Amalgamated Housing Youth Farmstand",
+    "Street Address":"Orloff Ave. & Gale Place",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"2PM - 7PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.884532, -73.892172)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.862833,40.833279 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Parkchester Greenmarket",
+    "Street Address":"Westchester Ave. & White Plains Road",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"Yes",
+    "Location Point":"(40.833279, -73.862833)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.943557,40.690036 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Hattie Carthan Herbal Apothecary/ Market",
+    "Street Address":"48 Van Buren St.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"1PM - 6PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.690036, -73.943557)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.909558,40.8429 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Harvest Home Mt. Eden Malls Farmers Market",
+    "Street Address":"Mt. Eden & Morris Aves (Claremont Park)",
+    "Days of Operation":"Tuesday & Thursday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.8429, -73.909558)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.945267,40.781968 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"94th Street Greenmarket",
+    "Street Address":"E. 94th St. & 1st Ave.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"9AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.781968, -73.945267)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.886557,40.665296 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"East New York Farmers Market",
+    "Street Address":"Schenck Ave. bet New Lots & Livonia Aves",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"9AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"Yes",
+    "Location Point":"(40.665296, -73.886557)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.944497,40.725617 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"McGolrick Park's Down to Earth Farmers Market",
+    "Street Address":"Russell St. & Nassau Ave. (center of park)",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"9AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.725617, -73.944497)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.917885,40.807883 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Mott Haven Farm Stand",
+    "Street Address":"541 E. 139th St. (Padre Plaza Garden)",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"9AM - 1PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.807883, -73.917885)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.918107,40.665965 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Seeds in the Middle Brownsville Farm Stand",
+    "Street Address":"104 Sutter Ave. (IS 392)",
+    "Days of Operation":"Tursday",
+    "Hours of Operations":"2PM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.665965, -73.918107)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.893563,40.846448 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"La Familia Verde Farmers Market",
+    "Street Address":"E. Tremont Ave. bet Arthur Ave. & LaFontaine Ave.",
+    "Days of Operation":"Tuesday",
+    "Hours of Operations":"8AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"Yes",
+    "Location Point":"(40.846448, -73.893563)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.944544,40.674 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Harvest Home Brower Park Farm Stand",
+    "Street Address":"Brooklyn Ave. & Prospect Place",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.674, -73.944544)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.997825,40.711958 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Two Bridges Youth Market",
+    "Street Address":"50 Madison St.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"10:30AM - 3:30PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.711958, -73.997825)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.939118,40.839441 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"NYP Youth Market - Audobon",
+    "Street Address":"21 Audobon Ave.",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"9AM - 3PM",
+    "Accepts EBT":"No",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.839441, -73.939118)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.90375,40.903039 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Riverdale Neighborhood House",
+    "Street Address":"5521 Mosholu Ave.",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"1PM - 6PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.903039, -73.90375)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.918107,40.665965 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Seeds in the Middle - Brownsville I.S. 392 Farm Stand",
+    "Street Address":"104 Sutter Ave.",
+    "Days of Operation":"Tuesdays",
+    "Hours of Operations":"2:30PM - 4:30PM (fall)",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.665965, -73.918107)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.988559,40.769117 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"57th Street Greenmarket",
+    "Street Address":"W. 57th St. & 10th Ave.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.769117, -73.988559)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.946882,40.689628 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Hattie Carthan Community Market",
+    "Street Address":"363-365 Clifton Place",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"9AM-3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.689628, -73.946882)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.913554,40.682391 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Cypress Hills Farmstand",
+    "Street Address":"Fulton St. bet Richmond and Logan Sts. (in front of Cypress Hills Senior Center)",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"10AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"Yes",
+    "Location Point":"(40.682391, -73.913554)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.920914,40.64497 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Wyckoff House Museum Farmstand",
+    "Street Address":"5816 Clarendon Road",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"11AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.64497, -73.920914)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.983785,40.672194 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Park Slope's Down to Earth Farmers Market",
+    "Street Address":"4th St. & 5th Ave.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"9AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.672194, -73.983785)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.82858,40.713318 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Queens Farm - Queens Borough Hall",
+    "Street Address":"120-55 Queens Blvd.",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"11AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.713318, -73.82858)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.766682,40.69225 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"St. Albans Farmers Market",
+    "Street Address":"St. Albans Long Island Railroad Commuter Parking Lot - Linden Blvd. bet 180th & Newburg Sts.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"11AM - 4PM",
+    "Accepts EBT":"TBD",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.69225, -73.766682)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.824852,40.757731 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Flushing Greenmarket",
+    "Street Address":"Sanford Ave. & Union St. (Bowne Playground)",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.757731, -73.824852)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.943844,40.823647 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Grass Roots Farmers' Market",
+    "Street Address":"W. 145th St. bet Edgecombe & Bradhurst Aves, at Jackie Robinson Park",
+    "Days of Operation":"Tuesday & Saturday",
+    "Hours of Operations":"9AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.823647, -73.943844)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.948552,40.82394 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Bro Sis Green Youth Market",
+    "Street Address":"Amsterdam bet W. 143rd & 144th Sts., at Johnny Hartman Plaza",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"10:30AM - 6PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.82394, -73.948552)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.002402,40.645841 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Sunset Park Farmstand",
+    "Street Address":"7th Ave. and 44th St.",
+    "Days of Operation":"Saturdays",
+    "Hours of Operations":"8AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.645841, -74.002402)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.947722,40.809344 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Market in the Heights at 125",
+    "Street Address":"163 West 125th St.",
+    "Days of Operation":"Saturday (once a month)",
+    "Hours of Operations":"9AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.809344, -73.947722)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.841597,40.701192 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Forest Park Farmstand",
+    "Street Address":"Park Lane South & Myrtle Ave. (My Buddy Statue Plaza)",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"9:30AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.701192, -73.841597)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96615,40.5867 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Harvest Home Coney Island Hospital Farmers Market",
+    "Street Address":"Ocean Parkway bet Ave. Z & Shore Parkway",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.5867, -73.96615)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.990548,40.633285 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Boro Park Greenmarket",
+    "Street Address":"14th Ave. bet 49th & 50th Sts.",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"8AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.633285, -73.990548)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.90668,40.700403 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Ridgewood Farmstand",
+    "Street Address":"Cypress Ave. bet Myrtle Ave. & Putnam Ave.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 2:30PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.700403, -73.90668)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.862726,40.749869 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Corona Greenmarket",
+    "Street Address":"Roosevelt Ave. & 103rd St.",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"Yes",
+    "Location Point":"(40.749869, -73.862726)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98196,40.773709 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Tucker Square Greenmarket",
+    "Street Address":"Columbus & 66th St.",
+    "Days of Operation":"Thursday & Saturday",
+    "Hours of Operations":"8AM - 3PM (Thursday); 8AM - 4PM (Saturday)",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.773709, -73.98196)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96968,40.661354 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Bartel-Pritchard Square Greenmarket",
+    "Street Address":"Prospect Park W. at 15th St.",
+    "Days of Operation":"Wednesday (year-round) & Sunday (seasonal)",
+    "Hours of Operations":"8AM - 2PM (W); 9AM - 2PM (SU)",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.661354, -73.96968)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.847079,40.8574 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Harvest Home Jacobi Hospital Farmers Market",
+    "Street Address":"1400 Pelham Parkway",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.8574, -73.847079)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.936314,40.767634 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Socrates Sculpture Park",
+    "Street Address":"32-01 Vernon Blvd.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"10AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.767634, -73.936314)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.776524,40.595255 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Edgemere Farm Market",
+    "Street Address":"385 Beach 45th St.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"10AM - 1PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.595255, -73.776524)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.883312,40.865684 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Morning Glory Market at the New York Botanical Gardens",
+    "Street Address":"2900 Southern Blvd.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"10AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.865684, -73.883312)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.887739,40.753607 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Jackson Heights Greenmarket",
+    "Street Address":"34th Ave. & 79th St.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.753607, -73.887739)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.952595,40.789386 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Mount Sinai Greenmarket",
+    "Street Address":"Madison Ave. & 99th St.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.789386, -73.952595)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.871914,40.675404 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"East New York Farmers Stand I",
+    "Street Address":"Euclid & Pitkin Aves.",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"2PM - 6:30PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.675404, -73.871914)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.998488,40.745293 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Chelsea's Down to Earth Farmers Market",
+    "Street Address":"W. 23rd St. bet 8th & 9th Aves.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"9AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.745293, -73.998488)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.934066,40.657269 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Urban Oasis",
+    "Street Address":"681 Clarkson Ave.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"2PM - 5:30PM",
+    "Accepts EBT":"No",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.657269, -73.934066)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8842,40.6289 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Fresh Vibes Market at Canarsie Pier",
+    "Street Address":"Canarsie Veteran's Circle",
+    "Days of Operation":"Tuesday",
+    "Hours of Operations":"9AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.6289, -73.8842)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.978827,40.642934 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"People in Need Farmstand",
+    "Street Address":"114 Beverly Road",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"11AM - 1PM",
+    "Accepts EBT":"yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.642934, -73.978827)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.915778,40.675024 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Seeds in the Middle - Ocean Hill - Brownsville Farm Stand",
+    "Street Address":"2163 Dean St.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"12:30PM - 3:30PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.675024, -73.915778)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.003327,40.658518 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Brooklyn Grange Farm Stand",
+    "Street Address":"850 3rd Ave. (Roof)",
+    "Days of Operation":"Sunday (second Sunday of each month)",
+    "Hours of Operations":"9AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.658518, -74.003327)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96807,40.794003 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"97th Street Greenmarket",
+    "Street Address":"97th St. bet Columbus & Amsterdam Aves",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"8AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.794003, -73.96807)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.946589,40.784943 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Harvest Home Metropolitan Hospital Farmers Market",
+    "Street Address":"E. 97th St. & 2nd Ave.",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.784943, -73.946589)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.987817,40.719322 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Project EATS Farm Stand at Essex Crossing",
+    "Street Address":"115 Delancey St.",
+    "Days of Operation":"Wednesday-Sunday",
+    "Hours of Operations":"11AM  - 7PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.719322, -73.987817)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.917821,40.678542 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Fresh Vibes Market at the American Beverage Association",
+    "Street Address":"2010 Fulton St.",
+    "Days of Operation":"Thursday (1st and 3rd)",
+    "Hours of Operations":"10AM - 1PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.678542, -73.917821)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.104753,40.645075 ]
+    },
+    "properties": {
+    "Borough":"Staten Island",
+    "Market Name":"Heritage Farm Stand (Compost Demonstration Site)",
+    "Street Address":"1000 Richmond Terrace (compost demonstration site)",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"3:30PM - 6PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.645075, -74.104753)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.819339,40.814256 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"The Market at Preston",
+    "Street Address":"2780 Schurz Ave. (Preston High School)",
+    "Days of Operation":"Tuesday",
+    "Hours of Operations":"4PM - 7PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.814256, -73.819339)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.968154,40.752122 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Dag Hammarskjold Greenmarket",
+    "Street Address":"47th St. & 2nd Ave.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.752122, -73.968154)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0779,40.641586 ]
+    },
+    "properties": {
+    "Borough":"Staten Island",
+    "Market Name":"St. George Greenmarket",
+    "Street Address":"St Marks Pl. & Hyatt St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.641586, -74.0779)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.964265,40.807145 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Columbia Greenmarket",
+    "Street Address":"Broadway & 114th St.",
+    "Days of Operation":"Thursdays & Sundays",
+    "Hours of Operations":"8AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.807145, -73.964265)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.973421,40.691457 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Fort Greene Greenmarket",
+    "Street Address":"Washington Park & Dekalb Ave.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.691457, -73.973421)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.922911,40.827335 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Bronx Borough Hall Greenmarket",
+    "Street Address":"161st St. & Grand Concourse",
+    "Days of Operation":"Tuesday",
+    "Hours of Operations":"8AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"Yes",
+    "Location Point":"(40.827335, -73.922911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.880458,40.88222 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Norwood Farmstand",
+    "Street Address":"E. Gun Hill Rd. & Dekalb Ave. (SE corner)",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"8:30AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.88222, -73.880458)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.975244,40.782295 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"79th Street Greenmarket",
+    "Street Address":"79th St. & Columbus Ave.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"9AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.782295, -73.975244)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00871,40.672524 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Red Hook Farm Stand",
+    "Street Address":"560 Columbia St.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"10AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.672524, -74.00871)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.961962,40.669567 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Seeds in the Middle - Crown Heights - Clara Barton HS Farm Stand",
+    "Street Address":"901 Classon Ave.",
+    "Days of Operation":"Thursdays",
+    "Hours of Operations":"12PM - 3PM (summer); 3PM - 6PM (fall)",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.669567, -73.961962)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.930136,40.668754 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Harvest Home Utica Avenue Farmers Market",
+    "Street Address":"Eastern Parkway bet Utica & Rochester Aves",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.668754, -73.930136)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.984258,40.71521 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Lower East Side Farmstand",
+    "Street Address":"Grand St. bet Pitt and Willett Sts. (outside of Abrons Arts Center)",
+    "Days of Operation":"Thursday",
+    "Hours of Operations":"8:30AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.71521, -73.984258)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.912208,40.891762 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Riverdale Y Sunday Farmers Market",
+    "Street Address":"4545 Independence Ave.",
+    "Days of Operation":"Sunday",
+    "Hours of Operations":"9AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.891762, -73.912208)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.947698,40.632886 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Flatbush Junction Farmstand",
+    "Street Address":"Nostrand & Flatbush Aves",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"9AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.632886, -73.947698)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.888606,40.651146 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Black Radish Farmers Market",
+    "Street Address":"12020 Flatlands Ave.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"10AM - 4PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.651146, -73.888606)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.830963,40.8702 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Harvest Home Co-op City Farm Stand",
+    "Street Address":"Asch Loop & Aldrich Ave.",
+    "Days of Operation":"Wednesday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.8702, -73.830963)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.969799,40.672525 ]
+    },
+    "properties": {
+    "Borough":"Brooklyn",
+    "Market Name":"Grand Army Plaza Greenmarket",
+    "Street Address":"Grand Army Plaza",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"8AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.672525, -73.969799)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.907005,40.880038 ]
+    },
+    "properties": {
+    "Borough":"Bronx",
+    "Market Name":"Kingsbridge-Riverdale Farmers' Market",
+    "Street Address":"260 W. 231st St.",
+    "Days of Operation":"Tuesday",
+    "Hours of Operations":"9AM - 5PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.880038, -73.907005)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.893504,40.754714 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"NYP Youth Market - Queens",
+    "Street Address":"73-15 Northern Blvd.",
+    "Days of Operation":"Friday",
+    "Hours of Operations":"9AM - 3PM",
+    "Accepts EBT":"No",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.754714, -73.893504)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.719431,40.748163 ]
+    },
+    "properties": {
+    "Borough":"Queens",
+    "Market Name":"Queens County Farm Museum Farm Stand",
+    "Street Address":"73-50 Little Neck Parkway",
+    "Days of Operation":"Wednesday - Sunday",
+    "Hours of Operations":"11AM - 3PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.748163, -73.719431)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.104753,40.645075 ]
+    },
+    "properties": {
+    "Borough":"Staten Island",
+    "Market Name":"Heritage Farm Stand (Gazebo Road)",
+    "Street Address":"1000 Richmond Terrace (Gazebo Road)",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"10AM - 3:30PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"No",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.645075, -74.104753)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.959647,40.801155 ]
+    },
+    "properties": {
+    "Borough":"Manhattan",
+    "Market Name":"Morningside Park's Down to Earth Farmers Market",
+    "Street Address":"W. 110th St. & Manhattan Ave.",
+    "Days of Operation":"Saturday",
+    "Hours of Operations":"9AM - 2PM",
+    "Accepts EBT":"Yes",
+    "Open Year-Round":"Yes",
+    "Cooking Demonstrations":"No",
+    "Location Point":"(40.801155, -73.959647)"
+    }
+  }
+]
+}
